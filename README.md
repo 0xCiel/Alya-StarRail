@@ -40,6 +40,7 @@
 
 
 ### Visual
+- UID Editor
 - Max Eidolon
 - Peeking
 - ESP
