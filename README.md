@@ -34,7 +34,6 @@
 - Dumb Enemies
 - Skip Cutscenes
 - Unlock Auto Battle
-- Auto Puzzle
 - Mob Vacuum
 - Auto Chat
 
@@ -44,6 +43,8 @@
 - Max Eidolon
 - Peeking
 - ESP
+- Free Camera
+- Hide UI
 
 ## Still WIP
 ---
