@@ -30,23 +30,25 @@
 - Global Speed
 - Battle Speed
 - Chest Teleport
+- Chest Vacuum
 - Quest Teleport
 - Dumb Enemies
 - Skip Cutscenes
 - Unlock Auto Battle
 - Mob Vacuum
 - Auto Chat
+- Auto Skip Dialogues
 
 
 ### Visual
+- Skin Unloker
 - UID Editor
-- Max Eidolon
 - Peeking
 - ESP
 - Free Camera
 - Hide UI
 
-## Still WIP
+
 ---
 
 ## Screenshots
