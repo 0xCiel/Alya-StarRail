@@ -48,6 +48,7 @@
 - ESP
 - Free Camera
 - Hide UI
+- Max Eidolon
 
 
 ### Misc
