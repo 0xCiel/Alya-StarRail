@@ -40,6 +40,7 @@
 - Auto Skip Dialogues
 
 
+
 ### Visual
 - Skin Unloker
 - UID Editor
@@ -48,6 +49,9 @@
 - Free Camera
 - Hide UI
 
+
+### Misc
+- Damage Leaderboard
 
 ---
 
